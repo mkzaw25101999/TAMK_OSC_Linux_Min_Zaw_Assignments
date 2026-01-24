@@ -1,0 +1,13 @@
+GitHub Repository: https://github.com/mkzaw25101999/TAMK_OSC_Linux_Min_Zaw_Assignments
+Branch: main
+
+Round 1 Exercises (3 exercises completed):
+- Solutions_round_1_exercise_1_C.c
+- Solutions_round_1_exercise_1_CPP.cpp
+- Solutions_round_1_exercise_2.cpp
+- Solutions_round_1_exercise_3.c
+- Solutions_round_1_exercise_4_C.c
+- Solutions_round_1_exercise_4_CPP.cpp
+
+All files are in the root directory of the repository.
+Repository is public - instructor has read access.
